@@ -1,2 +1,2 @@
-# Portafolio de analisis de Datos
-## Autor: Rubi Villanueva
+# Data Analysis Portfolio
+## Author: Rubi Villanueva
